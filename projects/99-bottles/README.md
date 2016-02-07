@@ -7,3 +7,4 @@
 ##### Solutions
 - [jrgz](https://github.com/jrgz/solutions/blob/master/99-bottles/bottles.py)
 - [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/99Bottles.py)
+- [JarrettCoker - Java solution](https://github.com/JarrettCoker/Beginner-Projects/blob/master/projects/99-bottles/BeerSong.java)
