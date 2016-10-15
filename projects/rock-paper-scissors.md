@@ -10,3 +10,5 @@
 
 ##### Solutions
 [Zakaer](https://github.com/zakaer/bprojectsolutions/blob/master/rockpaperscissors.py)
+
+[Yetunde] (https://github.com/Yetunde79/mynewrepository/blob/master/main.cpp)
