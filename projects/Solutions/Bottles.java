@@ -6,7 +6,7 @@
 * Date: 2/6/2016
 *****************************************************/
 
-public class BeerSong 
+public class Bottles
 {
 	public static void main(String[] args) 
 	{
